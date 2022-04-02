@@ -1,3 +1,4 @@
+## The features taken into consideration
 <h1 align="center">
              MedHelp HackHealth 🩺 💊 💉
 </h1>
