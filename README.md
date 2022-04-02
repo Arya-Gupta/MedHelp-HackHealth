@@ -1,6 +1,3 @@
-**Covid-19 Prediction Section**
-
-**Diabetes Prediction Section**
 <h1 align="center">
              MedHelp HackHealth 🩺 💊 💉
 </h1>
