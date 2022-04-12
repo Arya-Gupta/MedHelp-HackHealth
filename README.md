@@ -18,7 +18,7 @@ The disease sections include ->
 
 ## Tech Stacks Used
 
-<img src="https://img.shields.io/badge/html%20-%2314354C.svg?&style=for-the-badge&logo=html&logoColor=white"/> <img src="https://img.shields.io/badge/css%20-%2314354C.svg?&style=for-the-badge&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%2314354C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/mysql%20-%2314354C.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5%20-%2314354C.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%2314354C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/mysql%20-%2314354C.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 
 ## Libraries Used
 
