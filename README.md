@@ -18,7 +18,7 @@ The disease sections include ->
 
 ## Tech Stacks Used
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/php%20-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 
 ## Libraries Used
 
