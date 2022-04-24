@@ -60,7 +60,7 @@ The feature selection is carefully done under the supervision of a medical scien
 
 ### 1. Home Page
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/160230519-c3874268-09ee-4f25-84ef-d8bc21226ea3.png" width="1010"> 
+<img src="https://drive.google.com/file/d/1LXghdilAmYj7l-eAUluTPerQiZ-SquhJ/view?usp=sharing" width="1010"> 
 </pre>
 
 ### 2. Diabetes Prediction Section
