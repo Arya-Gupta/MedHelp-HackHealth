@@ -58,9 +58,12 @@ The feature selection is carefully done under the supervision of a medical scien
 
 ## UI Of The Web Application
 
+
+
+
 ### 1. Home Page
 <pre>
-<img src="https://drive.google.com/file/d/1LXghdilAmYj7l-eAUluTPerQiZ-SquhJ/view?usp=sharing" width="1010"> 
+<img src="https://user-images.githubusercontent.com/84087089/164988541-498cf845-3666-41fd-982c-abd43482e579.PNG" width="1010"> 
 </pre>
 
 ### 2. Diabetes Prediction Section
